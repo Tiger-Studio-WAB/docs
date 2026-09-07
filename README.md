@@ -23,6 +23,11 @@ Add a folder, add Markdown, and the page appears. See [How to format docs](/docs
 
 - [Getting started](/docs/getting-started) — what the hub is and how to join
 - [Products](/docs/products) — what we ship and where it lives
+- [Git](/docs/git) — clone, commit, and branch
+- [GitHub CLI](/docs/github-cli) — `gh` for pull requests and issues
+- [Godot](/docs/godot) — WAB-Project-1 and the 4.7 editor
+- [TypeScript](/docs/typescript) — Node and the website codebase
+- [Manage the website](/docs/website) — Vercel hosting and Supabase storage
 - [How to format docs](/docs/how-to-format) — write a new section
 
 Need help with an account, a broken page, or a club question? That is [Support](/support), not this handbook.
