@@ -12,7 +12,7 @@ Tiger Studio is a student passion club. This website is the front door: products
 
 1. Browse [Products](/products) to see public repositories and tools.
 2. [Join](/docs/getting-started/join) to post an idea or reply on Proj.Help.
-3. Read these docs when you are shipping or writing guides.
+3. Read these docs when you are shipping or writing guides: [Git](/docs/git), [GitHub CLI](/docs/github-cli), [Godot](/docs/godot), [TypeScript](/docs/typescript), and [the website](/docs/website).
 4. Use [Support](/support) only when you need help, not when you are learning how something works.
 
 ## The two GitHub repos

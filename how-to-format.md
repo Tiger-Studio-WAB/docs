@@ -19,6 +19,9 @@ docs/
     _category.json          ← optional
     index.md                ← landing page
     join.md                 ← another page
+  git/
+    index.md
+    install.md
   products/
     index.md
     proj-help.md
